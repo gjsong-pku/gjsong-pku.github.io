@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Guojie Song / Academic Page"
+title                    : "Guojie Song's Homepage"
 title_separator          : "-"
-name                     : &name "宋国杰"
-description              : &description "个人主页"
-url                      : https://pkuliyi2015.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dr. Guojie Song"
+description              : &description "Homepage"
+url                      : https://gjsong-pku.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "pkuliyi2015/pkuliyi2015.github.io"
+repository               : "gjsong-pku/gjsong-pku.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "宋国杰"
+  name             : "Dr. Guojie Song"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "北京大学"
+  bio              : |
+    Associate Professor, <br>
+    Peking University <br>
+    Department of Machine Intelligence
+  location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +99,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pkuliyi2015"
+  github           : "gjsong-pku"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
