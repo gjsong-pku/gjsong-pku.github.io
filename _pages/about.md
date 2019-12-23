@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: "About me"
+title: "Welcome"
+excerpt: "Welcome to Guojie Song's Website!"
 author_profile: true
 redirect_from: 
   - /about/
