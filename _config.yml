@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 title                    : "Guojie Song's Homepage"
 title_separator          : "-"
 name                     : &name "Dr. Guojie Song"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Guojie Song"
-  avatar           : "profile.png"
+  avatar           : "gjsong.png"
   bio              : |
     Associate Professor, <br>
     Peking University <br>
@@ -89,8 +89,8 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : https://scholar.google.com/citations?hl=zh-CN&user=a832IIMAAAAJ#"http://yourfullgooglescholarurl.com"
+  email            : gjsong@pku.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
