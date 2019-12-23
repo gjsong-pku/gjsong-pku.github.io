@@ -63,7 +63,7 @@ Note: This page doesn't contain all papers.
 
 # 2017
 
-  - Dong Liu, Yun Jing, Jing Zhao, Wenjun Wang, *Guojie Song*. [A Fast and Efficient Algorithm for Mining Top-k Nodes in Complex Networks](https://www.nature.com/articles/srep43330). Scientific Reports.  2017 Feb 27;7:43330. <span style="color:red">5-year IF=5.525</span>,【CCF A】
+  - Dong Liu, Yun Jing, Jing Zhao, Wenjun Wang, *Guojie Song*. [A Fast and Efficient Algorithm for Mining Top-k Nodes in Complex Networks](https://www.nature.com/articles/srep43330). Scientific Reports.  2017 Feb 27;7:43330. <span style="color:red">5-year IF=5.525</span>
 
   - Jing Zhang, Jie Tang, Yuanyi Zhong, Yuchen Mo, Juanzi Li, *Guojie Song*, Wendy Hall, and Jimeng Sun. [StructInf: Mining Structural Influence from Social Streams](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14763). AAAI 2017: 73-80. 【CCF A】
 
