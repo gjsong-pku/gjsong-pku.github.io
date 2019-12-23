@@ -1,7 +1,19 @@
 ---
+layout: archive
 title: "Projects"
 permalink: /projects/
 ---
+## In Progress
+
+We are focusing on the projects below:
+
+{% include base_path %}
+
+{% for post in site.projects reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Earlier Project
 
 | 起止年月       | 科研项目名称                                                 | 项目来源                 |
 | -------------- | ------------------------------------------------------------ | ------------------------ |
