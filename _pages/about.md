@@ -34,8 +34,7 @@ Research Interests
 Recent Papers
 ======
 - <span style="color:red">New!</span> Qingqing Long, Yiming Wang, Lun Du, *Guojie Song*, Wei Lin. [Subspace Network Embedding: A Hierarchical Community Structure Preserving Approach](https://dl.acm.org/citation.cfm?doid=3357384.3357947). CIKM2019.【<span style="color:red">Best Paper Runner Up Awarded</span>, CCF B】
-
-  - <span style="color:red">New!</span> Yun Wang, *Guojie Song*, Lun Du, Zhicong Lu. [Real-time Estimation of the Urban Air Quality with Mobile Sensor System](https://dl.acm.org/citation.cfm?doid=3364623.3356584). TKDD 13(5): 49:11-49:19 (2019). 【CCF B】
+- <span style="color:red">New!</span> Yun Wang, *Guojie Song*, Lun Du, Zhicong Lu. [Real-time Estimation of the Urban Air Quality with Mobile Sensor System](https://dl.acm.org/citation.cfm?doid=3364623.3356584). TKDD 13(5): 49:11-49:19 (2019). 【CCF B】
   - <span style="color:red">New!</span> Yizhou Zhang, *Guojie Song*, Lun Du, Shuwen Yang. DANE: [Domain Adaptive Network Embedding](https://arxiv.org/abs/1906.00684). IJCAI’19. 【CCF A】
   - <span style="color:red">New!</span> Yun Wang, Du Lun, *Guojie Song*, Xiaojun Ma, Lichen Jin, Wei Lin. [Tag2Gauss: Learning Tag Representations via Gaussian Distribution in Tagged Networks](https://www.ijcai.org/proceedings/2019/527). IJCAI’19【CCF A】
   - <span style="color:red">New!</span> Ziyao Li, Liang Zhang, *Guojie Song*. GCN-LASE: [Towards Adequately Leveraging Link Attributes in Graph Convolutional Networks](https://arxiv.org/abs/1902.09817). IJCAI’09. 【CCF A】
@@ -46,4 +45,8 @@ Recent Papers
 
 Selected Publications
 ======
-- Select the most representative paper here.
+- Yu Wang, Gao Cong, *Guojie Song*, Kunqing Xie: [Community-based greedy algorithm for mining top-K influential nodes in social networks](https://dl.acm.org/citation.cfm?doid=1835804.1835935). KDD:2010:1039-1048.【<span style="color:red">Google Scholar Citation 477</span>】
+- Wenhao Huang, *Guojie Song*, Haikun Hong, Kunqing Xie. [Deep Architecture for Traffic Flow Prediction: Deep Belief Networks With Multitask Learning](https://ieeexplore.ieee.org/document/6786503/). IEEE Transactions on ITS2014:2191-2201【WOS:000343002400029】【<span style="color:red">ESI Paper</span>】
+-  Qingqing Long, Yiming Wang, Lun Du, *Guojie Song*, Wei Lin. [Subspace Network Embedding: A Hierarchical Community Structure Preserving Approach](https://dl.acm.org/citation.cfm?doid=3357384.3357947). CIKM2019.【<span style="color:red">Best Paper Runner Up Awarded</span>, CCF B】
+-  Xinran He, *Guojie Song*, Wei Chen, Qingye Jiang. [Influence blocking maximization in social networks under the competitive linear threshold model](https://arxiv.org/abs/1110.4723). SDM 2012:463-474. 【CCF B】【<span style="color:red">Google Scholar Citation 265</span>】
+
