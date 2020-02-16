@@ -12,8 +12,11 @@ Note: This page doesn't contain all papers.
 
 # <span style="color:red">What's New</span>
 
-- <span style="color:red">New!</span> Shuai Liu, Wenhao Huang, *Guojie Song*. Real-time Transportation Prediction Correction using Reconstruction Error in Deep Learning. TKDD 【CCF B】
+- <span style="color:red">New!</span> Lichen Jin, Yizhou Zhang, Guojie Song, Yilun Jin. Active Domain Transfer on Network Embedding. WWW2020 【CCF A】
 
+- <span style="color:red">New!</span> Junshan Wang, Yilun Jin, Guojie Song and Xiaojun Ma .EPNE: Evolutionary Pattern Preserving Network Embedding.ECAI 2020 【CCF B】
+
+- <span style="color:red">New!</span> Shuai Liu, Wenhao Huang, *Guojie Song*. [Real-time Transportation Prediction Correction using Reconstruction Error in Deep Learning](https://dl.acm.org/doi/abs/10.1145/3369871). TKDD 【CCF B】
 
 - <span style="color:red">New!</span> Xiao Wang, Ruijie Wang, Chuan Shi, *Guojie Song*. [Multi-Component Graph Convolutional Collaborative Filtering](https://arxiv.org/abs/1911.10699). AAAI2020. 【CCF A】
 
