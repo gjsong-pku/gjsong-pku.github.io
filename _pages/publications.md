@@ -12,6 +12,8 @@ Note: This page doesn't contain all papers.
 
 # <span style="color:red">What's New</span>
 
+- <span style="color:red">New!</span> Qingqing Long, Yilun Jin, Guojie Song, Yi Li, Wei Lin. Graph Structural-topic Neural Network, KDD2020【CCF A】
+
 - <span style="color:red">New!</span> Shuwen Yang, *Guojie Song*, Yilun Jin, Lun Du. Domain Adaptive Classification on Heterogeneous Information Networks. IJCAI2020【CCF A】
 
 - <span style="color:red">New!</span> Lichen Jin, Yizhou Zhang, *Guojie Song*, Yilun Jin. Active Domain Transfer on Network Embedding. WWW2020 【CCF A】
