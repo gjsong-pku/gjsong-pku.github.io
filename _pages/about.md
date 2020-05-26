@@ -15,7 +15,7 @@ I am now recruiting interns who have strong mathematical abilities, coding skill
 
 <span style='color:red'>Recent News</span>
 ======
-- <span style="color:red">New!</span> [Qingqing Long, Yilun Jin, Guojie Song, Yi Li, Wei Lin. Graph Structural-topic Neural Network](www.gjsong-pku.cn/files/KDD_GraphSTONE.pdf), KDD2020【CCF A】
+- <span style="color:red">New!</span> [Qingqing Long, Yilun Jin, Guojie Song, Yi Li, Wei Lin. Graph Structural-topic Neural Network](https://www.gjsong-pku.cn/files/KDD_GraphSTONE.pdf), KDD2020【CCF A】
 
 - <span style="color:red">New!</span> Shuwen Yang, Guojie Song, Yilun Jin, Lun Du. Domain Adaptive Classification on Heterogeneous Information Networks, IJCAI2020【CCF A】
 
