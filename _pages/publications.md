@@ -30,7 +30,7 @@ Note: This page doesn't contain all papers.
 
 # 2019
 
-  - Qingqing Long, Yiming Wang, Lun Du, *Guojie Song*, Wei Lin. [Subspace Network Embedding: A Hierarchical Community Structure Preserving Approach](https://dl.acm.org/citation.cfm?doid=3357384.3357947). CIKM2019.【<span style="color:red">Best Paper Runner Up Awarded</span>】
+  - Qingqing Long, Yiming Wang, Lun Du, *Guojie Song*, Wei Lin. [Subspace Network Embedding: A Hierarchical Community Structure Preserving Approach](https://www.gjsong-pku.cn/files/SpaceNE_CIKM.pdf). CIKM2019.【<span style="color:red">Best Paper Runner Up Awarded</span>】
   - Yun Wang, *Guojie Song*, Lun Du, Zhicong Lu. [Real-time Estimation of the Urban Air Quality with Mobile Sensor System](https://dl.acm.org/citation.cfm?doid=3364623.3356584). TKDD 13(5): 49:11-49:19 (2019). 【CCF B】
   - Yizhou Zhang, *Guojie Song*, Lun Du, Shuwen Yang. DANE: [Domain Adaptive Network Embedding](https://arxiv.org/abs/1906.00684). IJCAI’19. 【CCF A】
   - Yun Wang, Du Lun, *Guojie Song*, Xiaojun Ma, Lichen Jin, Wei Lin. [Tag2Gauss: Learning Tag Representations via Gaussian Distribution in Tagged Networks](https://www.ijcai.org/proceedings/2019/527). IJCAI’19【CCF A】
