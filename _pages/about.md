@@ -15,15 +15,15 @@ I am now recruiting interns who have strong mathematical abilities, coding skill
 
 <span style='color:red'>Recent News</span>
 ======
-- <span style="color:red">New!</span> Guojie Song, Liang Zhang, Ziyao Li, Yi Li. Large Scale Network Embedding: A Separable Approach, TKDE2020【CCF A】
+- <span style="color:red">New!</span> *Guojie Song*, Liang Zhang, Ziyao Li, Yi Li. Large Scale Network Embedding: A Separable Approach, TKDE2020【CCF A】
 
-- <span style="color:red">New!</span> [Qingqing Long, Yilun Jin, Guojie Song, Yi Li, Wei Lin. Graph Structural-topic Neural Network](https://www.gjsong-pku.cn/files/KDD_GraphSTONE.pdf), KDD2020【CCF A】
+- <span style="color:red">New!</span> [Qingqing Long, Yilun Jin, *Guojie Song*, Yi Li, Wei Lin. Graph Structural-topic Neural Network](https://www.gjsong-pku.cn/files/KDD_GraphSTONE.pdf), KDD2020【CCF A】
 
-- <span style="color:red">New!</span> Shuwen Yang, Guojie Song, Yilun Jin, Lun Du. Domain Adaptive Classification on Heterogeneous Information Networks, IJCAI2020【CCF A】
+- <span style="color:red">New!</span> Shuwen Yang, *Guojie Song*, Yilun Jin, Lun Du. Domain Adaptive Classification on Heterogeneous Information Networks, IJCAI2020【CCF A】
 
-- <span style="color:red">New!</span> Lichen Jin, Yizhou Zhang, Guojie Song, Yilun Jin. Active Domain Transfer on Network Embedding. WWW2020 【CCF A】
+- <span style="color:red">New!</span> Lichen Jin, Yizhou Zhang, *Guojie Song*, Yilun Jin. Active Domain Transfer on Network Embedding. WWW2020 【CCF A】
 
-- <span style="color:red">New!</span> Junshan Wang, Yilun Jin, Guojie Song and Xiaojun Ma .EPNE: Evolutionary Pattern Preserving Network Embedding.ECAI 2020 【CCF B】
+- <span style="color:red">New!</span> Junshan Wang, Yilun Jin, *Guojie Song* and Xiaojun Ma .EPNE: Evolutionary Pattern Preserving Network Embedding.ECAI 2020 【CCF B】
 
 - <span style="color:red">New!</span> Shuai Liu, Wenhao Huang, *Guojie Song*. [Real-time Transportation Prediction Correction using Reconstruction Error in Deep Learning](https://dl.acm.org/doi/abs/10.1145/3369871). TKDD 【CCF B】
 
