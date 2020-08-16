@@ -12,7 +12,7 @@ Note: This page doesn't contain all papers.
 
 # <span style="color:red">What's New</span>
 
-- <span style="color:red">New!</span> Junshan Wang, Guojie Song*, Yi Wu, Liang Wang. Streaming Graph Neural Networks via Continuous Learning. CIKM2020【CCF A】
+- <span style="color:red">New!</span> Junshan Wang, Guojie Song*, Yi Wu, Liang Wang. Streaming Graph Neural Networks via Continuous Learning. CIKM2020【CCF B】
 
 - <span style="color:red">New!</span> *Guojie Song*, Liang Zhang, Ziyao Li, Yi Li. Large Scale Network Embedding: A Separable Approach, TKDE2020【CCF A】
 
