@@ -11,7 +11,7 @@ title                    : "Guojie Song's Homepage"
 title_separator          : "-"
 name                     : &name "Dr. Guojie Song"
 description              : &description "Homepage"
-url                      : https://gjsong-pku.github.io
+url                      : https://www.gjsong-pku.cn
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gjsong-pku/gjsong-pku.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
