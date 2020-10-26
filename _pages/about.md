@@ -15,7 +15,7 @@ I am now recruiting interns who have strong mathematical abilities, coding skill
 
 <span style='color:red'>Recent News</span>
 ======
-- <span style="color:red">New!</span> Xiaojun Ma, Ziyao Li, Siwei Wei, *Guojie Song*: Elaborating the Bayesian Priors in Unsupervised Graph Embedding via Graph Concepts. ADMA2020. 【<span style="color:red"> Best Research Paper Award】
+- <span style="color:red">New!</span> Xiaojun Ma, Ziyao Li, Siwei Wei, *Guojie Song*: Elaborating the Bayesian Priors in Unsupervised Graph Embedding via Graph Concepts. ADMA2020. <span style="color:red"> 【Best Research Paper Award】</span>
 
 - <span style="color:red">New!</span> *Guojie Song*, Qingqing Long, Yizhou Zhang, Lingjun Xu, Haibing Lu. Domain Adaptive Network Embedding. Accepted by in IEEE Transactions on Big Data (TBD2020).
 
