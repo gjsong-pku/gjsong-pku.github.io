@@ -15,6 +15,8 @@ I am now recruiting interns who have strong mathematical abilities, coding skill
 
 <span style='color:red'>Recent News</span>
 ======
+- <span style="color:red">New!</span> *Guojie Song*, Qingqing Long, Yizhou Zhang, Lingjun Xu, Haibing Lu. Network Embedding Across Adaptive Domains. To appear in IEEE Transactions on Big Data (TBD2020).
+
 - <span style="color:red">New!</span> *Guojie Song*, Qingqing Long, Yi Luo, Pengyu Li, Yiming Wang. Deep Convolutional Neural Network based Medical Conception Normalization. Accepted by IEEE Transactions on Big Data (TBD2020).
 
 - <span style="color:red">New!</span> Junshan Wang, Ziyao Li, Qingqing Long, Weiyu Zhang, *Guojie Song*, and Chuan Shi. Learning Node Representations from Noisy Graph Structures.  ICDM2020 【CCF B】
