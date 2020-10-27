@@ -46,6 +46,8 @@ I am now recruiting interns who have strong mathematical abilities, coding skill
 
 - <span style="color:red">New!</span> Yilun Jin, *Guojie Song*, Chuan Shi. GraLSP: [Graph Neural Networks with Local Structural Patterns. AAAI2020](https://arxiv.org/abs/1911.07675).【CCF A】
 
+- <span style="color:red">New!</span>	Haibing Lu, Qi Liu, Samorani Michele, Guojie Song, Xi Chen, Yanjiang Yang . Stochastic Workflow Authorizations with Queueing Constraints, Accepted by IEEE Transactions on Dependable and Secure Computing.【CCF A】
+
 Research Interests
 ======
 - Data Mining,  Machine Learning algorithms and models
