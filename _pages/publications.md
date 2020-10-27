@@ -1,9 +1,9 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
 
 Note: This page doesn't contain all papers.
 
