@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Welcome"
 excerpt: "Welcome to Guojie Song's Website!"
