@@ -12,31 +12,31 @@ Note: This page doesn't contain all papers.
 
 # <span style="color:red">What's New</span>
 
-- <span style="color:red">New!</span> Xiaojun Ma, Ziyao Li, Siwei Wei, *Guojie Song*: Elaborating the Bayesian Priors in Unsupervised Graph Embedding via Graph Concepts. ADMA2020. 【Best Research Paper Award】
+-  Xiaojun Ma, Ziyao Li, Siwei Wei, *Guojie Song*: Elaborating the Bayesian Priors in Unsupervised Graph Embedding via Graph Concepts. ADMA2020. 【Best Research Paper Award】
 
-- <span style="color:red">New!</span> Guojie Song, Yizhou Zhang, Lingjun Xu, Haibing Lu. Network Embedding Across Adaptive Domains. To appear in IEEE Transactions on Big Data. 
+- Guojie Song, Yizhou Zhang, Lingjun Xu, Haibing Lu. Network Embedding Across Adaptive Domains. To appear in IEEE Transactions on Big Data. 
 
-- <span style="color:red">New!</span> Junshan Wang, Ziyao Li, Qingqing Long, Weiyu Zhang, *Guojie Song*, and Chuan Shi. Learning Node Representations from Noisy Graph Structures.  ICDM2020 【CCF B】
+- Junshan Wang, Ziyao Li, Qingqing Long, Weiyu Zhang, *Guojie Song*, and Chuan Shi. Learning Node Representations from Noisy Graph Structures.  ICDM2020 【CCF B】
 
-- <span style="color:red">New!</span> Junshan Wang, Guojie Song*, Yi Wu, Liang Wang. Streaming Graph Neural Networks via Continuous Learning. CIKM2020【CCF B】
+- Junshan Wang, Guojie Song*, Yi Wu, Liang Wang. Streaming Graph Neural Networks via Continuous Learning. CIKM2020【CCF B】
 
-- <span style="color:red">New!</span> *Guojie Song*, Liang Zhang, Ziyao Li, Yi Li. Large Scale Network Embedding: A Separable Approach, TKDE2020【CCF A】
+- *Guojie Song*, Liang Zhang, Ziyao Li, Yi Li. Large Scale Network Embedding: A Separable Approach, TKDE2020【CCF A】
 
-- <span style="color:red">New!</span> [Qingqing Long, Yilun Jin, *Guojie Song*, Yi Li, Wei Lin. Graph Structural-topic Neural Network](https://www.gjsong-pku.cn/files/KDD_GraphSTONE.pdf), KDD2020【CCF A】
+-  [Qingqing Long, Yilun Jin, *Guojie Song*, Yi Li, Wei Lin. Graph Structural-topic Neural Network](https://www.gjsong-pku.cn/files/KDD_GraphSTONE.pdf), KDD2020【CCF A】
 
-- <span style="color:red">New!</span> Shuwen Yang, *Guojie Song*, Yilun Jin, Lun Du. Domain Adaptive Classification on Heterogeneous Information Networks. IJCAI2020【CCF A】
+-  Shuwen Yang, *Guojie Song*, Yilun Jin, Lun Du. Domain Adaptive Classification on Heterogeneous Information Networks. IJCAI2020【CCF A】
 
-- <span style="color:red">New!</span> Lichen Jin, Yizhou Zhang, *Guojie Song*, Yilun Jin. Active Domain Transfer on Network Embedding. WWW2020 【CCF A】
+-  Lichen Jin, Yizhou Zhang, *Guojie Song*, Yilun Jin. Active Domain Transfer on Network Embedding. WWW2020 【CCF A】
 
-- <span style="color:red">New!</span> Junshan Wang, Yilun Jin, *Guojie Song* and Xiaojun Ma .EPNE: Evolutionary Pattern Preserving Network Embedding.ECAI 2020 【CCF B】
+-  Junshan Wang, Yilun Jin, *Guojie Song* and Xiaojun Ma .EPNE: Evolutionary Pattern Preserving Network Embedding.ECAI 2020 【CCF B】
 
-- <span style="color:red">New!</span> Shuai Liu, Wenhao Huang, *Guojie Song*. [Real-time Transportation Prediction Correction using Reconstruction Error in Deep Learning](https://dl.acm.org/doi/abs/10.1145/3369871). TKDD 【CCF B】
+-  Shuai Liu, Wenhao Huang, *Guojie Song*. [Real-time Transportation Prediction Correction using Reconstruction Error in Deep Learning](https://dl.acm.org/doi/abs/10.1145/3369871). TKDD 【CCF B】
 
-- <span style="color:red">New!</span> Xiao Wang, Ruijie Wang, Chuan Shi, *Guojie Song*. [Multi-Component Graph Convolutional Collaborative Filtering](https://arxiv.org/abs/1911.10699). AAAI2020. 【CCF A】
+-  Xiao Wang, Ruijie Wang, Chuan Shi, *Guojie Song*. [Multi-Component Graph Convolutional Collaborative Filtering](https://arxiv.org/abs/1911.10699). AAAI2020. 【CCF A】
 
-- <span style="color:red">New!</span> Ziqiang Cheng, Yang Yang, Wei Wang, Wenjie Hu, Yueting Zhuang, *Guojie Song*. [Time2Graph: Revisiting Time Series Modeling with Dynamic Shapelets](https://arxiv.org/abs/1911.04143). AAAI2020. 【CCF A】
+-  Ziqiang Cheng, Yang Yang, Wei Wang, Wenjie Hu, Yueting Zhuang, *Guojie Song*. [Time2Graph: Revisiting Time Series Modeling with Dynamic Shapelets](https://arxiv.org/abs/1911.04143). AAAI2020. 【CCF A】
 
-- <span style="color:red">New!</span> Yilun Jin, *Guojie Song*, Chuan Shi. GraLSP: [Graph Neural Networks with Local Structural Patterns. AAAI2020](https://arxiv.org/abs/1911.07675).【CCF A】
+-  Yilun Jin, *Guojie Song*, Chuan Shi. GraLSP: [Graph Neural Networks with Local Structural Patterns. AAAI2020](https://arxiv.org/abs/1911.07675).【CCF A】
 
 # 2019
 
