@@ -10,7 +10,8 @@ Note: This page doesn't contain all papers.
 - To view the abstract information of all papers, you can visit my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=a832IIMAAAAJ#) or [Aminer](https://www.aminer.cn/profile/guojie-song/53f451dedabfaee4dc7ffd3d) homepage. 
 - To download them, you can either click the links here or visit the [DBLP](https://dblp.uni-trier.de/pers/hd/s/Song:Guojie) website.
 
-# <span style="color:red">What's New</span>
+# 2020
+
 -  Xiaojun Ma, Ziyao Li, Siwei Wei, *Guojie Song*: Elaborating the Bayesian Priors in Unsupervised Graph Embedding via Graph Concepts. ADMA2020. 【<span style="color:red">Best Research Paper Award】
 - Guojie Song, Yizhou Zhang, Lingjun Xu, Haibing Lu. Network Embedding Across Adaptive Domains. To appear in IEEE Transactions on Big Data. 
 - Junshan Wang, Ziyao Li, Qingqing Long, Weiyu Zhang, *Guojie Song*, and Chuan Shi. Learning Node Representations from Noisy Graph Structures.  ICDM2020 【CCF B】
