@@ -18,7 +18,7 @@ I am now recruiting interns who have strong mathematical abilities, coding skill
 
 - <span style="color:red">New!</span> Shi Chuan, Guojie Song: Modeling Theory and Mining Method of Complex and Heterogeneous Networked Data, <span style="color:red"> CCF Nature Science Award (Second Prize)
   
-  - <span style="color:red">New!</span>	Haibing Lu, Qi Liu, Samorani Michele, Guojie Song, Xi Chen, Yanjiang Yang . Stochastic Workflow Authorizations with Queueing Constraints, Accepted by IEEE Transactions on Dependable and Secure Computing.【CCF A】
+- <span style="color:red">New!</span>	Haibing Lu, Qi Liu, Samorani Michele, Guojie Song, Xi Chen, Yanjiang Yang . Stochastic Workflow Authorizations with Queueing Constraints, Accepted by IEEE Transactions on Dependable and Secure Computing.【CCF A】
 
 - <span style="color:red">New!</span> Xiaojun Ma, Ziyao Li, Siwei Wei, *Guojie Song*: Elaborating the Bayesian Priors in Unsupervised Graph Embedding via Graph Concepts. ADMA2020. <span style="color:red"> 【Best Research Paper Award】
 
