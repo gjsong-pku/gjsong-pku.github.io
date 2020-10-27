@@ -12,6 +12,7 @@ Note: This page doesn't contain all papers.
 
 # 2020
 
+-  Haibing Lu, Qi Liu, Samorani Michele, Guojie Song, Xi Chen, Yanjiang Yang . Stochastic Workflow Authorizations with Queueing Constraints, Accepted by IEEE Transactions on Dependable and Secure Computing.【CCF A】
 -  Xiaojun Ma, Ziyao Li, Siwei Wei, *Guojie Song*: Elaborating the Bayesian Priors in Unsupervised Graph Embedding via Graph Concepts. ADMA2020. 【<span style="color:red">Best Research Paper Award】
 - Guojie Song, Yizhou Zhang, Lingjun Xu, Haibing Lu. Network Embedding Across Adaptive Domains. To appear in IEEE Transactions on Big Data. 
 - Junshan Wang, Ziyao Li, Qingqing Long, Weiyu Zhang, *Guojie Song*, and Chuan Shi. Learning Node Representations from Noisy Graph Structures.  ICDM2020 【CCF B】
