@@ -17,6 +17,8 @@ I am now recruiting interns who have strong mathematical abilities, coding skill
 ======
 
 - <span style="color:red">New!</span> Shi Chuan, Guojie Song: Modeling Theory and Mining Method of Complex and Heterogeneous Networked Data, <span style="color:red"> CCF Nature Science Award (Second Prize)
+  
+  - <span style="color:red">New!</span>	Haibing Lu, Qi Liu, Samorani Michele, Guojie Song, Xi Chen, Yanjiang Yang . Stochastic Workflow Authorizations with Queueing Constraints, Accepted by IEEE Transactions on Dependable and Secure Computing.【CCF A】
 
 - <span style="color:red">New!</span> Xiaojun Ma, Ziyao Li, Siwei Wei, *Guojie Song*: Elaborating the Bayesian Priors in Unsupervised Graph Embedding via Graph Concepts. ADMA2020. <span style="color:red"> 【Best Research Paper Award】
 
@@ -45,8 +47,6 @@ I am now recruiting interns who have strong mathematical abilities, coding skill
 - <span style="color:red">New!</span> Ziqiang Cheng, Yang Yang, Wei Wang, Wenjie Hu, Yueting Zhuang, *Guojie Song*. [Time2Graph: Revisiting Time Series Modeling with Dynamic Shapelets](https://arxiv.org/abs/1911.04143). AAAI2020. 【CCF A】
 
 - <span style="color:red">New!</span> Yilun Jin, *Guojie Song*, Chuan Shi. GraLSP: [Graph Neural Networks with Local Structural Patterns. AAAI2020](https://arxiv.org/abs/1911.07675).【CCF A】
-
-- <span style="color:red">New!</span>	Haibing Lu, Qi Liu, Samorani Michele, Guojie Song, Xi Chen, Yanjiang Yang . Stochastic Workflow Authorizations with Queueing Constraints, Accepted by IEEE Transactions on Dependable and Secure Computing.【CCF A】
 
 Research Interests
 ======
