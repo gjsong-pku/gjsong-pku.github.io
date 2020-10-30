@@ -1,5 +1,6 @@
 ---
 title: "Talks"
+layout: archive
 permalink: /talks/
 ---
 
