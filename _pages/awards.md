@@ -1,5 +1,6 @@
 ---
 title: "Awards"
+layout: archive
 permalink: /awards/
 ---
 
