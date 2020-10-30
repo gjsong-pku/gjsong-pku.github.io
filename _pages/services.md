@@ -4,10 +4,10 @@ permalink: /services/
 ---
 
 ## Associate Editor:
-1.	Associate  Editor：IEEE Transactions on Big Data
-2.	Associate  Editor：Expert Systems with Applications (ESWA)
-3.	Associate  Editor：Machine Learning with Applications(MLA)
-4.	Associate  Editor：International Journal of Knowledge Science and Engineering.
++	Associate  Editor：IEEE Transactions on Big Data
++	Associate  Editor：Expert Systems with Applications (ESWA)
++	Associate  Editor：Machine Learning with Applications(MLA)
++	Associate  Editor：International Journal of Knowledge Science and Engineering.
 
 
 ## (S)PC Member:
