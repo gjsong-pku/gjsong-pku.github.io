@@ -4,11 +4,10 @@ permalink: /services/
 ---
 
 ## Associate Editor:
-1.	Associate  Editor：IEEE Transactions on Intelligent Transportation System
-2.	Associate  Editor：IEEE Transactions on Big Data
-3.	Associate  Editor：Expert Systems with Applications (ESWA)
-4.	Associate  Editor：Machine Learning with Applications(MLA)
-5.	Associate  Editor：International Journal of Knowledge Science and Engineering.
+1.	Associate  Editor：IEEE Transactions on Big Data
+2.	Associate  Editor：Expert Systems with Applications (ESWA)
+3.	Associate  Editor：Machine Learning with Applications(MLA)
+4.	Associate  Editor：International Journal of Knowledge Science and Engineering.
 
 
 ## PC and Senior PC
