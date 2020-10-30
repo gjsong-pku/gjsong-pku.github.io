@@ -10,14 +10,11 @@ permalink: /services/
 4.	Associate  Editor：International Journal of Knowledge Science and Engineering.
 
 
-## PC and Senior PC
+## (S)PC Member:
 
-1. AAAI2020, WWW2020(<span style="color:red">SPC</span>), IJCAI2020(<span style="color:red">SPC</span>), DASFAA2020
-2. AAA2019, IJCAI2019 ,KDD2019, ASONAM 2019, BIGDATA2019, CIKM2019 (<span style="color:red">SPC</span>), DASS2019
-3. AAAI2018, IJCAI2018, WWW2018, ACMMM2018
-4. AIED2017 (<span style="color:red">Industry Track Chair</span>)
+1.	WWW2021(SPC)，IJCAI2021(SPC)，AAAI2021
+2.	AAAI2020，WWW2020(SPC)，IJCAI2020(SPC)，KDD2020，DASFAA2020，ICDM2020, ICONIP 2020(SPC), ACML2020、NeurIPS 2020
+3.	AAA2019，IJCAI2019，KDD2019、ASONAM 2019, BIGDATA2019，CIKM2019 (SPC)，DASS2019
+4.	AAAI2018， IJCAI2018， WWW2018，ACMMM2018
+5.	AIED2017 (Industry Track Chair)
 
-## Journal Reviewer
-
-1. TKDE
-2. TITS
