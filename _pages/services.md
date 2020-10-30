@@ -3,6 +3,14 @@ title: "Services"
 permalink: /services/
 ---
 
+## Associate Editor:
+1.	Associate  Editor：IEEE Transactions on Intelligent Transportation System
+2.	Associate  Editor：IEEE Transactions on Big Data
+3.	Associate  Editor：Expert Systems with Applications (ESWA)
+4.	Associate  Editor：Machine Learning with Applications(MLA)
+5.	Associate  Editor：International Journal of Knowledge Science and Engineering.
+
+
 ## PC and Senior PC
 
 1. AAAI2020, WWW2020(<span style="color:red">SPC</span>), IJCAI2020(<span style="color:red">SPC</span>), DASFAA2020
