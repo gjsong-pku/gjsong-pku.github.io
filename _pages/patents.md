@@ -1,6 +1,7 @@
 ---
 
 title: "Patents"
+layout: archive
 permalink: /patents/
 
 ---
