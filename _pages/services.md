@@ -1,5 +1,6 @@
 ---
 title: "Services"
+layout: archive
 permalink: /services/
 ---
 
