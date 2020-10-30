@@ -4,19 +4,20 @@ permalink: /students/
 ---
 
 ## Graduate
-
-Yiming Wang
-
-Qingqing Long
-
-Junshan Wang
-
-Xiaojun Ma
-
-Shuwen Yang
-
-Yuchen Yan
++ Shuwen Yang
++ Yuchen Yan
++ Xiaojun Ma
++ Qingqing Long
++ Junshan Wang
++ Yiming Wang (graduated in 2020, work @ Fuzhou)
 
 ## Undergraduate
-
-Yi Li
++ Liming Yang
++ Wenhao Zhu
++ Hanyue Chen
++ Lingshen Cai
++ Lingjun Xu
++ Yi Wu
++ Siwei Wei
++ Weiyu Zhang
++ Yi Li
