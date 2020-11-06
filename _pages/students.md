@@ -5,7 +5,7 @@ permalink: /students/
 
 ## Graduate
 + Shuwen Yang
-+ Yuchen Yan
++ Yuchen Yan (co-advisor with Prof. Kunqing Xie)
 + Xiaojun Ma
 + Qingqing Long
 + Junshan Wang
@@ -18,11 +18,11 @@ permalink: /students/
 + Danmeng Liu (graduated in 2017, work @ Bytedance, Beijing)
 + Yu Lei (graduated in 2016, work @ Bytedance, Beijing)
 + Xinwei Nie (graduated in 2016, work @ Microsoft Research Asia, Beijing)
-+ Xiaodong Chen (graduated in 2016, work @ *, Beijing)
++ Xiaodong Chen (graduated in 2016, work @ Investment Co.LTD, Beijing)
 + Yifan Wu (graduated in 2015, work @ Microsoft Research Asia, Beijing)
 + Xiabing Zhou (graduated in 2013, work @ Suzhou Univ.)
-+ Nan Zhao (graduated in 2013, work @ *, Beijing)
-+ Junyuan Tan (graduated in 2012, work @ *, Beijing)
++ Nan Zhao (graduated in 2013, work @ Investment center, State Administration of Foreign Exchange, China)
++ Junyuan Tan (graduated in 2012, work @ ICBC Center, Beijing)
 
 ## Undergraduate
 + Liming Yang
