@@ -20,9 +20,9 @@ I am now recruiting interns who have strong mathematical abilities, coding skill
 
 - <span style="color:red">New!</span> 	Xiaojun Ma,Junshan Wang, Hanyue Zhang, *Guojie Song**. Improving Graph Neural Networks with Structural Adaptive Receptive Fields. WWW2021.
 
-- <span style="color:red">New!</span> Ziyao Li, Shuwen Yang, *Guojie Song*. Conformation-Guided Molecular Representation with Hamiltonian Neural Networks. ICLR2021.
+- <span style="color:red">New!</span> Ziyao Li, Shuwen Yang, *Guojie Song**. Conformation-Guided Molecular Representation with Hamiltonian Neural Networks. ICLR2021.
 
-- <span style="color:red">New!</span> Yi Li, Yilun Jin, *Guojie Song*, Zihao Zhu, Chuan Shi, Yiming Wang. GraphMSE: Efficient Meta-path Selection in Semantically Aligned Feature Space for Graph Neural Networks. AAAI2021.
+- <span style="color:red">New!</span> Yi Li, Yilun Jin, *Guojie Song**, Zihao Zhu, Chuan Shi, Yiming Wang. GraphMSE: Efficient Meta-path Selection in Semantically Aligned Feature Space for Graph Neural Networks. AAAI2021.
 
 - <span style="color:red">New!</span>	Jianan Zhao, Xiao Wang, Chuan Shi, Binbin Hu, *Guojie Song*, Yanfang Ye. Heterogeneous Graph Structure Learning for Graph Neural Networks. AAAI2021.
 
