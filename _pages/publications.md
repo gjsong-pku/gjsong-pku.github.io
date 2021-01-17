@@ -12,8 +12,9 @@ Note: This page doesn't contain all papers.
 - To download them, you can either click the links here or visit the [DBLP](https://dblp.uni-trier.de/pers/hd/s/Song:Guojie) website.
 
 # 2021
-7. Qingqing Long, Yilun Jin, Yi Wu , Guojie Song*. Theoretically Improving Graph Neural Networks via Anonymous Walk Graph Kernels. The Web Conference 2021.
-6. Xiaojun Ma,Junshan Wang, Hanyue Zhang, Guojie Song*. Improving Graph Neural Networks with Structural Adaptive Receptive Fields. The Web Conference 2021.
+8. Qingqing Long, Yilun Jin, Yi Wu , Guojie Song*. Theoretically Improving Graph Neural Networks via Anonymous Walk Graph Kernels. The Web Conference 2021.
+7. Xiaojun Ma,Junshan Wang, Hanyue Zhang, Guojie Song*. Improving Graph Neural Networks with Structural Adaptive Receptive Fields. The Web Conference 2021.
+6. Yiding Zhang, Xiao Wang, Chuan Shi, Nian Liu and *Guojie Song*. Lorentzian Graph Convolutional Networks. WWW2021.
 5. Yiding Zhang, Xiao Wang, Chuan Shi, Nian Liu and Guojie Song. Lorentzian Graph Convolutional Networks. The Web Conference 2021.
 4. Ziyao Li, Shuwen Yang, *Guojie Song*. Conformation-Guided Molecular Representation with Hamiltonian Neural Networks. ICLR2021.
 3. Chen Li, Linmei Hu, Chuan Shi, Guojie Song, Yuanfu Lu: Sequence-aware Heterogeneous Graph Neural Collaborative Filtering. SDM2021.
