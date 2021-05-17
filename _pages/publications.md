@@ -17,7 +17,7 @@ Note: This page doesn't contain all papers.
 9.  Qingqing Long, Yilun Jin, Yi Wu , Guojie Song*. Theoretically Improving Graph Neural Networks via Anonymous Walk Graph Kernels. The Web Conference 2021.
 10. Xiaojun Ma,Junshan Wang, Hanyue Zhang, Guojie Song*. Improving Graph Neural Networks with Structural Adaptive Receptive Fields. The Web Conference 2021.
 11. Yiding Zhang, Xiao Wang, Chuan Shi, Nian Liu and Guojie Song. Lorentzian Graph Convolutional Networks. The Web Conference 2021.
-12. Ziyao Li, Shuwen Yang, *Guojie Song*. Conformation-Guided Molecular Representation with Hamiltonian Neural Networks. ICLR2021.
+12. Ziyao Li, Shuwen Yang, Guojie Song*. Conformation-Guided Molecular Representation with Hamiltonian Neural Networks. ICLR2021.
 13. Chen Li, Linmei Hu, Chuan Shi, Guojie Song, Yuanfu Lu: Sequence-aware Heterogeneous Graph Neural Collaborative Filtering. SDM2021.
 14. Yi LI, Yilun Jin, Guojie Song*, Zihao Zhu, Chuan Shi, Yiming Wang. GraphMSE: Efficient Meta-path Selection in Semantically Aligned Feature Space for Graph Neural Networks. AAAI2021.
 15.	Jianan Zhao, Xiao Wang, Chuan Shi, Binbin Hu, Guojie Song, Yanfang Ye. Heterogeneous Graph Structure Learning for Graph Neural Networks. AAAI2021.
