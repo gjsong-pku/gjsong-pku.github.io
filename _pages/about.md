@@ -16,6 +16,10 @@ I am now recruiting interns who have strong mathematical abilities, coding skill
 
 <span style='color:red'>Recent News</span>
 ======
+- <span style="color:red">New!</span> Zheng Fang, Qingqing Long, *Guojie Song**, Kunqing Xie. Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting. KDD2021.
+
+- <span style="color:red">New!</span> Qingqing Long, Lingjun Xu, Zheng Fang, *Guojie Song**. HGK-GNN: Heterogeneous Graph Kernel based Graph Neural Networks. KDD 2021.
+
 - <span style="color:red">New!</span> Ziyao Li, Shuwen Yang, *Guojie Song**. Conformation-Guided Molecular Representation with Hamiltonian Neural Networks. ICLR2021.
 
 - <span style="color:red">New!</span> 	Qingqing Long, Yilun Jin, Yi Wu , *Guojie Song**. Theoretically Improving Graph Neural Networks via Anonymous Walk Graph Kernels. WWW2021.
