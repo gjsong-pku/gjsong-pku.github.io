@@ -16,23 +16,23 @@ I am now recruiting interns who have strong mathematical abilities, coding skill
 
 <span style='color:red'>Recent News</span>
 ======
-- <span style="color:red">New!</span> Zheng Fang, Qingqing Long, *Guojie Song**, Kunqing Xie. Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting. KDD2021.
+- <span style="color:red">Paper New!</span> Zheng Fang, Qingqing Long, *Guojie Song**, Kunqing Xie. Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting. KDD2021.
 
-- <span style="color:red">New!</span> Qingqing Long, Lingjun Xu, Zheng Fang, *Guojie Song**. HGK-GNN: Heterogeneous Graph Kernel based Graph Neural Networks. KDD 2021.
+- <span style="color:red">Paper New!</span> Qingqing Long, Lingjun Xu, Zheng Fang, *Guojie Song**. HGK-GNN: Heterogeneous Graph Kernel based Graph Neural Networks. KDD 2021.
 
-- <span style="color:red">New!</span> Ziyao Li, Shuwen Yang, *Guojie Song**. Conformation-Guided Molecular Representation with Hamiltonian Neural Networks. ICLR2021.
+- <span style="color:red">Paper New!</span> Ziyao Li, Shuwen Yang, *Guojie Song**. Conformation-Guided Molecular Representation with Hamiltonian Neural Networks. ICLR2021.
 
-- <span style="color:red">New!</span> 	Qingqing Long, Yilun Jin, Yi Wu , *Guojie Song**. Theoretically Improving Graph Neural Networks via Anonymous Walk Graph Kernels. WWW2021.
+- <span style="color:red">Paper New!</span> 	Qingqing Long, Yilun Jin, Yi Wu , *Guojie Song**. Theoretically Improving Graph Neural Networks via Anonymous Walk Graph Kernels. WWW2021.
 
-- <span style="color:red">New!</span> 	Xiaojun Ma,Junshan Wang, Hanyue Zhang, *Guojie Song**. Improving Graph Neural Networks with Structural Adaptive Receptive Fields. WWW2021.
+- <span style="color:red">Paper New!</span> 	Xiaojun Ma,Junshan Wang, Hanyue Zhang, *Guojie Song**. Improving Graph Neural Networks with Structural Adaptive Receptive Fields. WWW2021.
 
-- <span style="color:red">New!</span>	Yiding Zhang, Xiao Wang, Chuan Shi, Nian Liu and *Guojie Song*. Lorentzian Graph Convolutional Networks. WWW2021.
+- <span style="color:red">Paper New!</span>	Yiding Zhang, Xiao Wang, Chuan Shi, Nian Liu and *Guojie Song*. Lorentzian Graph Convolutional Networks. WWW2021.
 
-- <span style="color:red">New!</span> Yi Li, Yilun Jin, *Guojie Song**, Zihao Zhu, Chuan Shi, Yiming Wang. GraphMSE: Efficient Meta-path Selection in Semantically Aligned Feature Space for Graph Neural Networks. AAAI2021.
+- <span style="color:red">Paper New!</span> Yi Li, Yilun Jin, *Guojie Song**, Zihao Zhu, Chuan Shi, Yiming Wang. GraphMSE: Efficient Meta-path Selection in Semantically Aligned Feature Space for Graph Neural Networks. AAAI2021.
 
-- <span style="color:red">New!</span>	Jianan Zhao, Xiao Wang, Chuan Shi, Binbin Hu, *Guojie Song*, Yanfang Ye. Heterogeneous Graph Structure Learning for Graph Neural Networks. AAAI2021.
+- <span style="color:red">Paper New!</span>	Jianan Zhao, Xiao Wang, Chuan Shi, Binbin Hu, *Guojie Song*, Yanfang Ye. Heterogeneous Graph Structure Learning for Graph Neural Networks. AAAI2021.
 
-- <span style="color:red">New!</span>	Chen Li, Linmei Hu, Chuan Shi, *Guojie Song*, Yuanfu Lu: Sequence-aware Heterogeneous Graph Neural Collaborative Filtering. SDM2021.
+- <span style="color:red">Paper New!</span>	Chen Li, Linmei Hu, Chuan Shi, *Guojie Song*, Yuanfu Lu: Sequence-aware Heterogeneous Graph Neural Collaborative Filtering. SDM2021.
 
 
 
