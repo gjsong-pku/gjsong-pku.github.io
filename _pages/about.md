@@ -16,6 +16,8 @@ I am now recruiting interns who have strong mathematical abilities, coding skill
 
 <span style='color:red'>Recent News</span>
 ======
+- <span style="color:red">New Paper!</span> Xiaojun Ma, Hanyue Chen, Guojie Song*. EnergyReg: Alleviating Over-Smoothing in Graph Neural Networks with Local Energy. CIKM 2021.
+
 - <span style="color:red">New Paper!</span> Zheng Fang, Qingqing Long, *Guojie Song**, Kunqing Xie. Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting. KDD2021.
 
 - <span style="color:red">New Paper!</span> Qingqing Long, Lingjun Xu, Zheng Fang, *Guojie Song**. HGK-GNN: Heterogeneous Graph Kernel based Graph Neural Networks. KDD 2021.
