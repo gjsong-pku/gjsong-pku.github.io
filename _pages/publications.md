@@ -12,6 +12,7 @@ Note: This page doesn't contain all papers.
 - To download them, you can either click the links here or visit the [DBLP](https://dblp.uni-trier.de/pers/hd/s/Song:Guojie) website.
 
 # 2021
+6. Xiaojun Ma, Hanyue Chen, Guojie Song*. EnergyReg: Alleviating Over-Smoothing in Graph Neural Networks with Local Energy. CIKM 2021.
 7. Zheng Fang, Qingqing Long, Guojie Song*, Kunqing Xie. Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting. KDD2021.
 8. Qingqing Long, Lingjun Xu, Zheng Fang, Guojie Song*. HGK-GNN: Heterogeneous Graph Kernel based Graph Neural Networks. KDD 2021.
 9. Ziyao Li, Shuwen Yang, Guojie Song*. Conformation-Guided Molecular Representation with Hamiltonian Neural Networks. ICLR2021.
