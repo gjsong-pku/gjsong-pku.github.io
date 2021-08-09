@@ -11,7 +11,7 @@ redirect_from:
 
 I am currently an associate professor in [Department of Machine Intelligence](https://www.cis.pku.edu.cn), [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn), [Peking University](https://www.pku.edu.cn). 
 
-I am now recruiting interns who have strong mathematical abilities, coding skills  and great devotion in  graph representation learning and Pre-training graph neural networks. If you are interested in working with me, please send your detailed resume to my email: [gjsong@pku.edu.cn](mailto:gjsong@pku.edu.cn)
+I am now recruiting interns who have strong mathematical abilities, coding skills  and great devotion in  graph representation learning and pre-training graph neural networks. If you are interested in working with me, please send your detailed resume to my email: [gjsong@pku.edu.cn](mailto:gjsong@pku.edu.cn)
 
 
 <span style='color:red'>Recent News</span>
