@@ -16,6 +16,8 @@ I am now recruiting interns who have strong mathematical abilities, coding skill
 
 <span style='color:red'>Recent News</span>
 ======
+- <span style="color:red">New Paper!</span> Shuwen Yang, Ziyao Li, Guojie Song*, Lingsheng Cai. Deep Molecular Representation Learning via Fusing Physical and Chemical Information. NeurIPS 2021.
+
 - <span style="color:red">New Paper!</span> Xiaojun Ma, Hanyue Chen, Guojie Song*. EnergyReg: Alleviating Over-Smoothing in Graph Neural Networks with Local Energy. CIKM 2021.
 
 - <span style="color:red">New Paper!</span> Zheng Fang, Qingqing Long, *Guojie Song**, Kunqing Xie. Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting. KDD2021.
