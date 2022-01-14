@@ -11,6 +11,10 @@ Note: This page doesn't contain all papers.
 - To view the abstract information of all papers, you can visit my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=a832IIMAAAAJ#) or [Aminer](https://www.aminer.cn/profile/guojie-song/53f451dedabfaee4dc7ffd3d) homepage. 
 - To download them, you can either click the links here or visit the [DBLP](https://dblp.uni-trier.de/pers/hd/s/Song:Guojie) website.
 
+# 2022
+1. Zheng Fang, Lingjun Xu, Guojie Song, Qingqing Long and Yingxue Zhang. Polarized Graph Neural Networks. TheWebConf 2022.
+2. Xiaojun Ma, Qin Chen, Yuanyi Ren, Guojie Song and Liang Wang. Meta-Weight Graph Neural Network: Push the Limits Beyond Global Homophily. TheWebConf 2022.
+
 # 2021
 6. Shuwen Yang, Ziyao Li, Guojie Song*, Lingsheng Cai. Deep Molecular Representation Learning via Fusing Physical and Chemical Information. NeurIPS 2021.
 7. Xiaojun Ma, Hanyue Chen, Guojie Song*. EnergyReg: Alleviating Over-Smoothing in Graph Neural Networks with Local Energy. CIKM 2021.
