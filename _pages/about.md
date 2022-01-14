@@ -16,8 +16,9 @@ I am now recruiting interns who have strong mathematical abilities, coding skill
 
 <span style='color:red'>Recent News</span>
 ======
-- <span style="color:red">New Paper!</span> Zheng Fang, Lingjun Xu, Guojie Song, Qingqing Long and Yingxue Zhang. Polarized Graph Neural Networks. TheWebConf 2022.
-- <span style="color:red">New Paper!</span> Xiaojun Ma, Qin Chen, Yuanyi Ren, Guojie Song and Liang Wang. Meta-Weight Graph Neural Network: Push the Limits Beyond Global Homophily. TheWebConf 2022.
+- <span style="color:red">New Paper!</span> Zheng Fang, Lingjun Xu, *Guojie Song*, Qingqing Long and Yingxue Zhang. Polarized Graph Neural Networks. TheWebConf 2022.
+- <span style="color:red">New Paper!</span> Xiaojun Ma, Qin Chen, Yuanyi Ren, *Guojie Song* and Liang Wang. Meta-Weight Graph Neural Network: Push the Limits Beyond Global Homophily. TheWebConf 2022.
+- <span style="color:red">New Paper!</span> Xiaojun Ma, Ziyao Li, *Guojie Song*, Chuan Shi. Learning Discrete Adaptive Receptive Fields for Graph Convolutional Networks. SCIENCE CHINA Information Sciences.
 
 Research Interests
 ======
