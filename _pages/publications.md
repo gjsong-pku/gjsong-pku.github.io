@@ -13,9 +13,10 @@ Note: This page doesn't contain all papers.
 
 # 2022
 1. Lingjun Xu, Shiyin Zhang, *Guojie Song*, Junshan Wang, Tianshu Wu and Guojun Liu. Taxonomy-Enhanced Graph Neural Networks. CIKM2022.
-2. Zheng Fang, Lingjun Xu, *Guojie Song*, Qingqing Long and Yingxue Zhang. Polarized Graph Neural Networks. TheWebConf 2022.
-3. Xiaojun Ma, Qin Chen, Yuanyi Ren, *Guojie Song* and Liang Wang. Meta-Weight Graph Neural Network: Push the Limits Beyond Global Homophily. TheWebConf 2022.
-4. Xiaojun Ma, Ziyao Li, *Guojie Song*, Chuan Shi. Learning Discrete Adaptive Receptive Fields for Graph Convolutional Networks. SCIENCE CHINA Information Sciences.
+2. Junshan Wang, Wenhao Zhu, Weiyu Zhang, *Guojie Song*, Liang Wang. Streaming Graph Neural Networks via Generative Replay. KDD 2022.
+3. Zheng Fang, Lingjun Xu, *Guojie Song*, Qingqing Long and Yingxue Zhang. Polarized Graph Neural Networks. TheWebConf 2022.
+4. Xiaojun Ma, Qin Chen, Yuanyi Ren, *Guojie Song* and Liang Wang. Meta-Weight Graph Neural Network: Push the Limits Beyond Global Homophily. TheWebConf 2022.
+5. Xiaojun Ma, Ziyao Li, *Guojie Song*, Chuan Shi. Learning Discrete Adaptive Receptive Fields for Graph Convolutional Networks. SCIENCE CHINA Information Sciences.
 
 # 2021
 6. Shuwen Yang, Ziyao Li, Guojie Song*, Lingsheng Cai. Deep Molecular Representation Learning via Fusing Physical and Chemical Information. NeurIPS 2021.
@@ -30,9 +31,7 @@ Note: This page doesn't contain all papers.
 15. Yi LI, Yilun Jin, Guojie Song*, Zihao Zhu, Chuan Shi, Yiming Wang. GraphMSE: Efficient Meta-path Selection in Semantically Aligned Feature Space for Graph Neural Networks. AAAI2021.
 16.	Jianan Zhao, Xiao Wang, Chuan Shi, Binbin Hu, Guojie Song, Yanfang Ye. Heterogeneous Graph Structure Learning for Graph Neural Networks. AAAI2021.
 
-
 # 2020
-
 1. *Guojie Song*, Yun Wang, Lun Du, Yi Wu, Junshan Wang. A Hierarchical Structure Preserving Network Embedding Approach. Accepted by ACM Transactions on KDD.【CCF B】
 2.  Haibing Lu, Qi Liu, Samorani Michele, *Guojie Song*, Xi Chen, Yanjiang Yang. Stochastic Workflow Authorizations with Queueing Constraints, Accepted by IEEE Transactions on Dependable and Secure Computing.【CCF A】
 3.  Xiaojun Ma, Ziyao Li, Siwei Wei, *Guojie Song*: Elaborating the Bayesian Priors in Unsupervised Graph Embedding via Graph Concepts. ADMA2020. 【<span style="color:red">Best Research Paper Award】
