@@ -16,7 +16,7 @@ I am now recruiting interns who have strong mathematical abilities, coding skill
 
 <span style='color:red'>Recent News</span>
 ======
-- <span style="color:red">New Paper!</span> Lingjun Xu, Shiyin Zhang, **Guojie Song***, Junshan Wang, Tianshu Wu and Guojun Liu. Taxonomy-Enhanced Graph Neural Networks. CIKM2022.
+- <span style="color:red">New Paper!</span> Lingjun Xu, Shiyin Zhang, **Guojie Song***, Junshan Wang, Tianshu Wu and Guojun Liu. __Taxonomy-Enhanced Graph Neural Networks. CIKM2022.
 - <span style="color:red">New Paper!</span>	Junshan Wang, Wenhao Zhu, Weiyu Zhang, **Guojie Song***, Liang Wang. Streaming Graph Neural Networks via Generative Replay. KDD 2022.
 - <span style="color:red">New Paper!</span> Zheng Fang, Lingjun Xu, **Guojie Song***, Qingqing Long and Yingxue Zhang. Polarized Graph Neural Networks. TheWebConf 2022.
 - <span style="color:red">New Paper!</span> Xiaojun Ma, Qin Chen, Yuanyi Ren, **Guojie Song*** and Liang Wang. Meta-Weight Graph Neural Network: Push the Limits Beyond Global Homophily. TheWebConf 2022.
