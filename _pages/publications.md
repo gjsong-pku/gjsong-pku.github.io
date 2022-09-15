@@ -12,11 +12,13 @@ Note: This page doesn't contain all papers.
 - To download them, you can either click the links here or visit the [DBLP](https://dblp.uni-trier.de/pers/hd/s/Song:Guojie) website.
 
 # 2022
-1. Lingjun Xu, Shiyin Zhang, *Guojie Song*, Junshan Wang, Tianshu Wu and Guojun Liu. Taxonomy-Enhanced Graph Neural Networks. CIKM2022.
-2. Junshan Wang, Wenhao Zhu, Weiyu Zhang, *Guojie Song*, Liang Wang. Streaming Graph Neural Networks via Generative Replay. KDD 2022.
-3. Zheng Fang, Lingjun Xu, *Guojie Song*, Qingqing Long and Yingxue Zhang. Polarized Graph Neural Networks. TheWebConf 2022.
-4. Xiaojun Ma, Qin Chen, Yuanyi Ren, *Guojie Song* and Liang Wang. Meta-Weight Graph Neural Network: Push the Limits Beyond Global Homophily. TheWebConf 2022.
-5. Xiaojun Ma, Ziyao Li, *Guojie Song*, Chuan Shi. Learning Discrete Adaptive Receptive Fields for Graph Convolutional Networks. SCIENCE CHINA Information Sciences.
+1. Shuwen Yang, Zhihao Yang, Dong Li, Yingxue Zhang, Zhanguang Zhang, Guojie Song*, Jianye HAO. Versatile Multi-stage Graph Neural Network for Circuit Representation. NeurIPS2022.
+2. Zheng Fang, Ziyun Zhang, Guojie Song*, Yingxue Zhang, Dong Li, Jianye Hao, and Xi Wang,. Invariant Factor Graph Neural Networks. ICDM2022.
+3. Lingjun Xu, Shiyin Zhang, *Guojie Song*, Junshan Wang, Tianshu Wu and Guojun Liu. Taxonomy-Enhanced Graph Neural Networks. CIKM2022.
+4. Junshan Wang, Wenhao Zhu, Weiyu Zhang, *Guojie Song*, Liang Wang. Streaming Graph Neural Networks via Generative Replay. KDD 2022.
+5. Zheng Fang, Lingjun Xu, *Guojie Song*, Qingqing Long and Yingxue Zhang. Polarized Graph Neural Networks. TheWebConf 2022.
+6. Xiaojun Ma, Qin Chen, Yuanyi Ren, *Guojie Song* and Liang Wang. Meta-Weight Graph Neural Network: Push the Limits Beyond Global Homophily. TheWebConf 2022.
+7. Xiaojun Ma, Ziyao Li, *Guojie Song*, Chuan Shi. Learning Discrete Adaptive Receptive Fields for Graph Convolutional Networks. SCIENCE CHINA Information Sciences.
 
 # 2021
 6. Shuwen Yang, Ziyao Li, Guojie Song*, Lingsheng Cai. Deep Molecular Representation Learning via Fusing Physical and Chemical Information. NeurIPS 2021.
