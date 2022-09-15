@@ -16,6 +16,7 @@ I am now recruiting interns who have strong mathematical abilities, coding skill
 
 <span style='color:red'>Recent News</span>
 ======
+- <span style="color:red">New Paper!</span> Shuwen Yang, Zhihao Yang, Dong Li, Yingxue Zhang, Zhanguang Zhang, **Guojie Song***, Jianye HAO. Versatile Multi-stage Graph Neural Network for Circuit Representation. NeurIPS2022.
 - <span style="color:red">New Paper!</span> Zheng Fang, Ziyun Zhang, **Guojie Song***, Yingxue Zhang, Dong Li, Jianye Hao, and Xi Wang,. Invariant Factor Graph Neural Networks. ICDM2022.
 - <span style="color:red">New Paper!</span> Lingjun Xu, Shiyin Zhang, **Guojie Song***, Junshan Wang, Tianshu Wu and Guojun Liu. Taxonomy-Enhanced Graph Neural Networks. CIKM2022.
 - <span style="color:red">New Paper!</span>	Junshan Wang, Wenhao Zhu, Weiyu Zhang, **Guojie Song***, Liang Wang. Streaming Graph Neural Networks via Generative Replay. KDD 2022.
